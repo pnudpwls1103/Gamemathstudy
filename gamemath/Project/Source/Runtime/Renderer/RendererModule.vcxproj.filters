@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Precompiled.cpp" />
+    <ClCompile Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Private\2D\Shader.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Private\2D\Vertex.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Private\3D\PerspectiveTest.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Private\3D\Shader.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Private\3D\Vertex.cpp">
+      <Filter>Private\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Private\Windows\WindowsGDI.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Private\Windows\WindowsRSI.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Precompiled.h" />
+    <ClInclude Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Public\2D\Shader.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Public\2D\Vertex.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Public\3D\PerspectiveTest.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Public\3D\Shader.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Public\3D\Vertex.h">
+      <Filter>Public\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Public\RendererHeaders.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Public\RendererInterface.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Public\Windows\WindowsGDI.h">
+      <Filter>Public\Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\YEJIN\부산대\KEEPER\스터디\게임수학\gamemath\Source\Runtime\Renderer\Public\Windows\WindowsRSI.h">
+      <Filter>Public\Windows</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Private">
+      <UniqueIdentifier>{47B5F46A-CA5D-3DF2-B23F-A1C811578420}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\2D">
+      <UniqueIdentifier>{86D6E0AD-C63C-30E6-8C15-A6621D4C9814}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\3D">
+      <UniqueIdentifier>{86C642BA-789C-38DE-89D3-583284A762B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{72626026-85B9-36C0-B4A0-8120BA752758}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public">
+      <UniqueIdentifier>{701B222C-391F-3935-AD13-50C8D4C52825}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\2D">
+      <UniqueIdentifier>{50163BE2-C5D9-376C-A408-92C1A3AAD3E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\3D">
+      <UniqueIdentifier>{CDD72081-A752-369D-96A8-9AB53AC072A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\Windows">
+      <UniqueIdentifier>{4C5A452B-6DE0-357F-A77C-BAD6F562CBD0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

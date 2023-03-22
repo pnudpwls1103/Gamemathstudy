@@ -1,0 +1,9 @@
+C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/ALL_BUILD.dir
+C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/Source/Runtime/Math/CMakeFiles/MathModule.dir
+C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/Source/Runtime/Math/CMakeFiles/ALL_BUILD.dir
+C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/Source/Runtime/Renderer/CMakeFiles/RendererModule.dir
+C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/Source/Runtime/Renderer/CMakeFiles/ALL_BUILD.dir
+C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/Source/Runtime/Engine/CMakeFiles/EngineModule.dir
+C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/Source/Runtime/Engine/CMakeFiles/ALL_BUILD.dir
+C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/Source/Player/CMakeFiles/SoftRendererPlayer.dir
+C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/Source/Player/CMakeFiles/ALL_BUILD.dir
