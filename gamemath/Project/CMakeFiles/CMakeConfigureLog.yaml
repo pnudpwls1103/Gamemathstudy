@@ -26,7 +26,7 @@ events:
       .NET Framework용 Microsoft (R) Build Engine 버전 16.11.2+f32259642
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      빌드 시작: 2023-03-22 오전 1:51:33
+      빌드 시작: 2023-03-23 오후 6:11:46
       1 노드의 "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\3.26.0\\CompilerIdC\\CompilerIdC.vcxproj" 프로젝트(기본 대상)입니다.
       PrepareForBuild:
         "Debug\\" 디렉터리를 만들고 있습니다.
@@ -52,7 +52,7 @@ events:
           경고 0개
           오류 0개
       
-      경과 시간: 00:00:00.97
+      경과 시간: 00:00:00.73
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -80,7 +80,7 @@ events:
       .NET Framework용 Microsoft (R) Build Engine 버전 16.11.2+f32259642
       Copyright (C) Microsoft Corporation. All rights reserved.
       
-      빌드 시작: 2023-03-22 오전 1:51:34
+      빌드 시작: 2023-03-23 오후 6:11:46
       1 노드의 "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\3.26.0\\CompilerIdCXX\\CompilerIdCXX.vcxproj" 프로젝트(기본 대상)입니다.
       PrepareForBuild:
         "Debug\\" 디렉터리를 만들고 있습니다.
@@ -106,7 +106,7 @@ events:
           경고 0개
           오류 0개
       
-      경과 시간: 00:00:00.59
+      경과 시간: 00:00:00.57
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -125,46 +125,46 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/YEJIN/\ubd80\uc0b0\ub300/KEEPER/\uc2a4\ud130\ub514/\uac8c\uc784\uc218\ud559/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-j4qb3w"
-      binary: "C:/YEJIN/\ubd80\uc0b0\ub300/KEEPER/\uc2a4\ud130\ub514/\uac8c\uc784\uc218\ud559/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-j4qb3w"
+      source: "C:/YEJIN/\ubd80\uc0b0\ub300/KEEPER/\uc2a4\ud130\ub514/\uac8c\uc784\uc218\ud559/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-ihqaki"
+      binary: "C:/YEJIN/\ubd80\uc0b0\ub300/KEEPER/\uc2a4\ud130\ub514/\uac8c\uc784\uc218\ud559/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-ihqaki"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
     buildResult:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-j4qb3w
+        Change Dir: C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-ihqaki
         
-        Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_2ac6b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n && .NET Framework용 Microsoft (R) Build Engine 버전 16.11.2+f32259642
+        Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_df994.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n && .NET Framework용 Microsoft (R) Build Engine 버전 16.11.2+f32259642
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        빌드 시작: 2023-03-22 오전 1:51:35
-        1 노드의 "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-j4qb3w\\cmTC_2ac6b.vcxproj" 프로젝트(기본 대상)입니다.
+        빌드 시작: 2023-03-23 오후 6:11:47
+        1 노드의 "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-ihqaki\\cmTC_df994.vcxproj" 프로젝트(기본 대상)입니다.
         PrepareForBuild:
-          "cmTC_2ac6b.dir\\Debug\\" 디렉터리를 만들고 있습니다.
-          "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-j4qb3w\\Debug\\" 디렉터리를 만들고 있습니다.
-          "cmTC_2ac6b.dir\\Debug\\cmTC_2ac6b.tlog\\" 디렉터리를 만들고 있습니다.
+          "cmTC_df994.dir\\Debug\\" 디렉터리를 만들고 있습니다.
+          "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-ihqaki\\Debug\\" 디렉터리를 만들고 있습니다.
+          "cmTC_df994.dir\\Debug\\cmTC_df994.tlog\\" 디렉터리를 만들고 있습니다.
         InitializeBuildStatus:
-          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_2ac6b.dir\\Debug\\cmTC_2ac6b.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
+          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_df994.dir\\Debug\\cmTC_df994.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2ac6b.dir\\Debug\\\\" /Fd"cmTC_2ac6b.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_df994.dir\\Debug\\\\" /Fd"cmTC_df994.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ 최적화 컴파일러 버전 19.29.30140(x64)
           Copyright (c) Microsoft Corporation. All rights reserved.
           CMakeCCompilerABI.c
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2ac6b.dir\\Debug\\\\" /Fd"cmTC_2ac6b.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_df994.dir\\Debug\\\\" /Fd"cmTC_df994.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-j4qb3w\\Debug\\cmTC_2ac6b.exe" /INCREMENTAL /ILK:"cmTC_2ac6b.dir\\Debug\\cmTC_2ac6b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-j4qb3w/Debug/cmTC_2ac6b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-j4qb3w/Debug/cmTC_2ac6b.lib" /MACHINE:X64  /machine:x64 cmTC_2ac6b.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_2ac6b.vcxproj -> C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-j4qb3w\\Debug\\cmTC_2ac6b.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-ihqaki\\Debug\\cmTC_df994.exe" /INCREMENTAL /ILK:"cmTC_df994.dir\\Debug\\cmTC_df994.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-ihqaki/Debug/cmTC_df994.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-ihqaki/Debug/cmTC_df994.lib" /MACHINE:X64  /machine:x64 cmTC_df994.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_df994.vcxproj -> C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-ihqaki\\Debug\\cmTC_df994.exe
         FinalizeBuildStatus:
-          "cmTC_2ac6b.dir\\Debug\\cmTC_2ac6b.tlog\\unsuccessfulbuild" 파일을 삭제하고 있습니다.
-          "cmTC_2ac6b.dir\\Debug\\cmTC_2ac6b.tlog\\cmTC_2ac6b.lastbuildstate"에 연결(touching)하고 있습니다.
-        "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-j4qb3w\\cmTC_2ac6b.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+          "cmTC_df994.dir\\Debug\\cmTC_df994.tlog\\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+          "cmTC_df994.dir\\Debug\\cmTC_df994.tlog\\cmTC_df994.lastbuildstate"에 연결(touching)하고 있습니다.
+        "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-ihqaki\\cmTC_df994.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
         
         빌드했습니다.
             경고 0개
             오류 0개
         
-        경과 시간: 00:00:00.53
+        경과 시간: 00:00:00.54
         
       exitCode: 0
   -
@@ -176,46 +176,46 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/YEJIN/\ubd80\uc0b0\ub300/KEEPER/\uc2a4\ud130\ub514/\uac8c\uc784\uc218\ud559/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-2d275r"
-      binary: "C:/YEJIN/\ubd80\uc0b0\ub300/KEEPER/\uc2a4\ud130\ub514/\uac8c\uc784\uc218\ud559/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-2d275r"
+      source: "C:/YEJIN/\ubd80\uc0b0\ub300/KEEPER/\uc2a4\ud130\ub514/\uac8c\uc784\uc218\ud559/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-m7z44u"
+      binary: "C:/YEJIN/\ubd80\uc0b0\ub300/KEEPER/\uc2a4\ud130\ub514/\uac8c\uc784\uc218\ud559/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-m7z44u"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
     buildResult:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-2d275r
+        Change Dir: C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-m7z44u
         
-        Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_cabe4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n && .NET Framework용 Microsoft (R) Build Engine 버전 16.11.2+f32259642
+        Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_35a7b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n && .NET Framework용 Microsoft (R) Build Engine 버전 16.11.2+f32259642
         Copyright (C) Microsoft Corporation. All rights reserved.
         
-        빌드 시작: 2023-03-22 오전 1:51:36
-        1 노드의 "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-2d275r\\cmTC_cabe4.vcxproj" 프로젝트(기본 대상)입니다.
+        빌드 시작: 2023-03-23 오후 6:11:48
+        1 노드의 "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-m7z44u\\cmTC_35a7b.vcxproj" 프로젝트(기본 대상)입니다.
         PrepareForBuild:
-          "cmTC_cabe4.dir\\Debug\\" 디렉터리를 만들고 있습니다.
-          "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-2d275r\\Debug\\" 디렉터리를 만들고 있습니다.
-          "cmTC_cabe4.dir\\Debug\\cmTC_cabe4.tlog\\" 디렉터리를 만들고 있습니다.
+          "cmTC_35a7b.dir\\Debug\\" 디렉터리를 만들고 있습니다.
+          "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-m7z44u\\Debug\\" 디렉터리를 만들고 있습니다.
+          "cmTC_35a7b.dir\\Debug\\cmTC_35a7b.tlog\\" 디렉터리를 만들고 있습니다.
         InitializeBuildStatus:
-          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_cabe4.dir\\Debug\\cmTC_cabe4.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
+          "AlwaysCreate"이(가) 지정되었기 때문에 "cmTC_35a7b.dir\\Debug\\cmTC_35a7b.tlog\\unsuccessfulbuild"을(를) 만들고 있습니다.
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_cabe4.dir\\Debug\\\\" /Fd"cmTC_cabe4.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_35a7b.dir\\Debug\\\\" /Fd"cmTC_35a7b.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ 최적화 컴파일러 버전 19.29.30140(x64)
           Copyright (c) Microsoft Corporation. All rights reserved.
           CMakeCXXCompilerABI.cpp
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_cabe4.dir\\Debug\\\\" /Fd"cmTC_cabe4.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_35a7b.dir\\Debug\\\\" /Fd"cmTC_35a7b.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.26\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-2d275r\\Debug\\cmTC_cabe4.exe" /INCREMENTAL /ILK:"cmTC_cabe4.dir\\Debug\\cmTC_cabe4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-2d275r/Debug/cmTC_cabe4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-2d275r/Debug/cmTC_cabe4.lib" /MACHINE:X64  /machine:x64 cmTC_cabe4.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_cabe4.vcxproj -> C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-2d275r\\Debug\\cmTC_cabe4.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-m7z44u\\Debug\\cmTC_35a7b.exe" /INCREMENTAL /ILK:"cmTC_35a7b.dir\\Debug\\cmTC_35a7b.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-m7z44u/Debug/cmTC_35a7b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/YEJIN/부산대/KEEPER/스터디/게임수학/gamemath/Project/CMakeFiles/CMakeScratch/TryCompile-m7z44u/Debug/cmTC_35a7b.lib" /MACHINE:X64  /machine:x64 cmTC_35a7b.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_35a7b.vcxproj -> C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-m7z44u\\Debug\\cmTC_35a7b.exe
         FinalizeBuildStatus:
-          "cmTC_cabe4.dir\\Debug\\cmTC_cabe4.tlog\\unsuccessfulbuild" 파일을 삭제하고 있습니다.
-          "cmTC_cabe4.dir\\Debug\\cmTC_cabe4.tlog\\cmTC_cabe4.lastbuildstate"에 연결(touching)하고 있습니다.
-        "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-2d275r\\cmTC_cabe4.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
+          "cmTC_35a7b.dir\\Debug\\cmTC_35a7b.tlog\\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+          "cmTC_35a7b.dir\\Debug\\cmTC_35a7b.tlog\\cmTC_35a7b.lastbuildstate"에 연결(touching)하고 있습니다.
+        "C:\\YEJIN\\부산대\\KEEPER\\스터디\\게임수학\\gamemath\\Project\\CMakeFiles\\CMakeScratch\\TryCompile-m7z44u\\cmTC_35a7b.vcxproj" 프로젝트를 빌드했습니다(기본 대상).
         
         빌드했습니다.
             경고 0개
             오류 0개
         
-        경과 시간: 00:00:00.53
+        경과 시간: 00:00:00.56
         
       exitCode: 0
 ...
